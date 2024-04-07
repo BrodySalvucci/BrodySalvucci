@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brody</h1>
 <h3 align="center">A passionate learner for the United States</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=brodysalvucci&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="brodysalvucci" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brodysalvucci" alt="brodysalvucci" /></a> </p>
 
 - 🔭 I’m currently working on [Inflamed Hosting](https://inflamed.host)
 
